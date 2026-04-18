@@ -1,6 +1,6 @@
 {
   "name": "mma-plugin-docker-update",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "MagicMirror Admin Plugin - Docker Update",
   "main": "src/index.js",
   "scripts": {
